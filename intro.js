@@ -1,3 +1,3 @@
-console.log("my name is samira line");
-console.log("i'm 20 years old");
-console.log("javascript is my favorite programming language");
+console.log("Name:samira line");
+console.log("Age:20");
+console.log("favorite programming language:javascript");
